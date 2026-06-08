@@ -27,17 +27,17 @@ export default function Home() {
       <section id="home" className="min-h-screen flex items-center px-6 pt-28">
         <div className="max-w-7xl mx-auto grid gap-12 lg:grid-cols-2 items-center">
           <div className="space-y-8 fade-in">
-            <span className="inline-flex rounded-full bg-[rgba(56,210,138,0.08)] px-4 py-2 text-sm uppercase tracking-[0.3em] accent-text">Aspiring GenAI Engineer</span>
+            <span className="inline-flex rounded-full bg-[rgba(56,210,138,0.08)] px-4 py-2 text-sm uppercase tracking-[0.3em] accent-text">AI/ML & Cloud Engineering Student</span>
             <h1 className="text-6xl md:text-7xl font-extrabold leading-tight">
-              Hi, I’m <span className="text-white">Eswar Koduru</span>
+              Building AI tools, cloud workflows, and product-ready experiences.
             </h1>
             <p className="max-w-xl text-lg leading-8 text-gray-400">
-              I build cloud-native workflows, intelligent prototypes, and product-focused AI applications that solve real problems.
+              I create practical GenAI prototypes, cloud automation, and full-stack applications that turn ideas into reliable software solutions.
             </p>
 
-            <div className="flex gap-4">
-              <a href="#projects" className="inline-flex items-center justify-center rounded-full btn-accent px-6 py-3 text-sm font-semibold transition hover:brightness-95">Download CV</a>
-              <a href="#contact" className="inline-flex items-center justify-center rounded-full btn-outline-accent px-6 py-3 text-sm font-semibold transition hover:border-opacity-100">Hire Me</a>
+            <div className="flex flex-wrap gap-4">
+              <a href="#projects" className="inline-flex items-center justify-center rounded-full btn-accent px-6 py-3 text-sm font-semibold transition hover:brightness-95">View Projects</a>
+              <a href="#contact" className="inline-flex items-center justify-center rounded-full btn-outline-accent px-6 py-3 text-sm font-semibold transition hover:border-opacity-100">Contact Me</a>
             </div>
 
             <div className="grid gap-4 sm:grid-cols-3 pt-6">
@@ -68,10 +68,10 @@ export default function Home() {
             <p className="text-purple-400 uppercase tracking-[0.35em] text-sm">About Me</p>
             <h3 className="text-4xl font-semibold">Strategic AI student building product-ready experiences.</h3>
             <p className="text-gray-400 leading-8">
-              B.Tech CSE (AI/ML) student at SR University with strong technical foundations in Python, machine learning, cloud systems, and software architecture.
+              I am a B.Tech CSE (AI/ML) student at SR University with a hands-on interest in Python, machine learning, cloud systems, and product engineering.
             </p>
             <p className="text-gray-400 leading-8">
-              I focus on turning research-driven concepts into intuitive interfaces and dependable automation systems that scale.
+              My focus is on translating research ideas into practical interfaces, automation flows, and AI-based products that are easy to use and dependable in real-world settings.
             </p>
           </div>
 
@@ -193,8 +193,8 @@ export default function Home() {
           </div>
           <div className="rounded-[2rem] border border-white/10 bg-purple-600 p-10 text-white shadow-[0_20px_50px_rgba(0,0,0,0.25)]">
             <p className="text-white font-semibold mb-4">Get in touch</p>
-            <p className="text-gray-100 mb-3">📧 eswarreddykoduru@gmail.com</p>
-            <p className="text-gray-100 mb-3">📞 +91 9573786379</p>
+            <a href="mailto:eswarreddykoduru@gmail.com" className="mb-3 block text-gray-100 transition hover:text-white">📧 eswarreddykoduru@gmail.com</a>
+            <a href="tel:+919573786379" className="mb-3 block text-gray-100 transition hover:text-white">📞 +91 9573786379</a>
             <p className="text-gray-100">📍 Nellore, Andhra Pradesh</p>
           </div>
         </div>
