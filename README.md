@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Koduru Eswar Reddy - Developer Portfolio
 
-## Getting Started
+[![Next.js](https://img.shields.io/badge/Next.js-16.2-black?style=for-the-badge&logo=next.svg)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)](https://react.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 
-First, run the development server:
+Personal portfolio website for **Koduru Eswar Reddy** — Software Engineer specializing in Java, Data Structures & Algorithms, Backend Development, and AI/ML.
+
+---
+
+## 🚀 Key Highlights & Sections
+
+- **Hero & Identity**: Professional overview, CGPA (9.435 / 10.0 at SR University), specialization metrics, and direct contact options.
+- **Coding & Developer Profiles**: LeetCode, Codeforces, GeeksforGeeks, HackerRank, GitHub, and LinkedIn.
+- **About & Academic Background**: Detailed profile of B.Tech CSE (AI/ML) studies, core strengths, and career orientation.
+- **Technical Skills**: Structured categories covering Java, C, Python, Data Structures & Algorithms, OOP, OS, DBMS, Web/Node.js, MongoDB, MySQL, Computer Vision (OpenCV), Speech Recognition, and AWS/Azure Cloud.
+- **Featured Projects**:
+  - **CodeFocus**: AI-Powered Developer Growth Platform (Java 21, Modular Architecture, REST APIs, AI/GenAI).
+  - **AI-Based Attendance System**: Computer Vision and Voice recognition biometric verification with OpenCV and Web UI.
+  - **Blogify**: Full-stack content publishing web application with Node.js and MongoDB.
+- **Certifications & Achievements**: AWS Academy (Foundations & Development), Azure AI Fundamentals, Cisco CCNA, and Smart India Hackathon (SIH).
+- **Direct Contact**: Interactive mail client triggers, quick email copy button, and location info.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Framework**: [Next.js 16](https://nextjs.org) (App Router, Turbopack)
+- **Frontend**: [React 19](https://react.dev), [Tailwind CSS v4](https://tailwindcss.com)
+- **Icons**: [Lucide React](https://lucide.dev) & Custom SVG Brand Icons
+- **Typography**: Inter & JetBrains Mono (via `next/font/google`)
+
+---
+
+## 💻 Local Development
 
 ```bash
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+# Build for production
+npm run build
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the portfolio.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📬 Contact
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Email**: [eswarreddykoduru@gmail.com](mailto:eswarreddykoduru@gmail.com)
+- **Phone**: +91 9573786379
+- **GitHub**: [github.com/Eswar15-b34](https://github.com/Eswar15-b34)
+- **LinkedIn**: [linkedin.com/in/eswar-koduru](https://www.linkedin.com/in/eswar-koduru)
