@@ -52,7 +52,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ## 📬 Contact
 
-- **Email**: [eswarreddykoduru@gmail.com](mailto:eswarreddykoduru@gmail.com)
+- **Email**: [eshwarreddykoduru@gmail.com](mailto:eshwarreddykoduru@gmail.com)
 - **Phone**: +91 9573786379
 - **GitHub**: [github.com/Eswar15-b34](https://github.com/Eswar15-b34)
 - **LinkedIn**: [linkedin.com/in/eswar-koduru](https://www.linkedin.com/in/eswar-koduru)

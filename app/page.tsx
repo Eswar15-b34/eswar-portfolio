@@ -83,7 +83,7 @@ export default function Home() {
   const [copiedEmail, setCopiedEmail] = useState(false);
 
   const handleCopyEmail = () => {
-    navigator.clipboard.writeText('eswarreddykoduru@gmail.com');
+    navigator.clipboard.writeText('eshwarreddykoduru@gmail.com');
     setCopiedEmail(true);
     setTimeout(() => setCopiedEmail(false), 2500);
   };
@@ -275,7 +275,7 @@ export default function Home() {
 
           <div className="flex items-center gap-3">
             <a
-              href="mailto:eswarreddykoduru@gmail.com"
+              href="mailto:eshwarreddykoduru@gmail.com"
               className="inline-flex items-center gap-2 rounded-full border border-purple-500/30 bg-purple-500/10 px-4 py-2 text-xs font-semibold text-purple-300 transition hover:bg-purple-500/20 hover:border-purple-500/60"
             >
               <Mail className="w-3.5 h-3.5" />
@@ -318,9 +318,9 @@ export default function Home() {
                 +91 9573786379
               </a>
               <span>•</span>
-              <a href="mailto:eswarreddykoduru@gmail.com" className="flex items-center gap-1.5 hover:text-white transition">
+              <a href="mailto:eshwarreddykoduru@gmail.com" className="flex items-center gap-1.5 hover:text-white transition">
                 <Mail className="w-4 h-4 text-purple-400" />
-                eswarreddykoduru@gmail.com
+                eshwarreddykoduru@gmail.com
               </a>
             </div>
 
@@ -333,7 +333,7 @@ export default function Home() {
                 View Projects
               </a>
               <a
-                href="mailto:eswarreddykoduru@gmail.com"
+                href="mailto:eshwarreddykoduru@gmail.com"
                 className="inline-flex items-center gap-2 rounded-full border border-white/20 bg-white/5 px-6 py-3 text-sm font-semibold text-white transition hover:bg-white/10 hover:border-purple-400/50"
               >
                 <Mail className="w-4 h-4" />
@@ -701,7 +701,7 @@ export default function Home() {
               </a>
 
               <a
-                href="mailto:eswarreddykoduru@gmail.com"
+                href="mailto:eshwarreddykoduru@gmail.com"
                 className="flex items-center gap-3 p-4 rounded-xl bg-white/5 border border-white/5 hover:border-purple-500/30 hover:bg-purple-500/10 transition"
               >
                 <div className="h-10 w-10 rounded-lg bg-purple-500/20 text-purple-300 flex items-center justify-center shrink-0">
@@ -709,7 +709,7 @@ export default function Home() {
                 </div>
                 <div className="overflow-hidden">
                   <p className="text-[11px] text-gray-400 uppercase font-mono">Email</p>
-                  <p className="text-xs font-semibold text-white truncate">eswarreddykoduru@gmail.com</p>
+                  <p className="text-xs font-semibold text-white truncate">eshwarreddykoduru@gmail.com</p>
                 </div>
               </a>
             </div>
@@ -774,7 +774,7 @@ export default function Home() {
 
               <div className="flex gap-3">
                 <a
-                  href="mailto:eswarreddykoduru@gmail.com"
+                  href="mailto:eshwarreddykoduru@gmail.com"
                   className="inline-flex items-center gap-2 rounded-xl bg-gradient-to-r from-purple-600 to-indigo-600 px-5 py-2.5 text-xs font-semibold text-white shadow-md hover:brightness-110 transition"
                 >
                   <Mail className="w-3.5 h-3.5" />
