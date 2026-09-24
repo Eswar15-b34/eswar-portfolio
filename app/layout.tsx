@@ -13,23 +13,9 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Koduru Eswar Reddy | Software Engineer & AI/ML Developer",
+  title: "Koduru Eswar Reddy | Software Engineer | Java | DSA | AI/ML",
   description:
-    "Portfolio of Koduru Eswar Reddy — Software Engineer specializing in Java, Data Structures & Algorithms, AI/ML, Cloud Computing (AWS/Azure), and Web Development.",
-  keywords: [
-    "Koduru Eswar Reddy",
-    "Eswar Reddy",
-    "Software Engineer",
-    "Java Developer",
-    "AI/ML Engineer",
-    "Data Structures & Algorithms",
-    "SR University",
-    "Full Stack Developer",
-    "CodeFocus",
-    "AWS",
-    "Azure"
-  ],
-  authors: [{ name: "Koduru Eswar Reddy" }],
+    "Portfolio of Koduru Eswar Reddy — Software Engineer, B.Tech CSE (AI/ML) at SR University.",
   icons: {
     icon: "/profile.png",
   },
@@ -45,7 +31,7 @@ export default function RootLayout({
       lang="en"
       className={`${inter.variable} ${jetbrainsMono.variable} h-full antialiased scroll-smooth`}
     >
-      <body className="min-h-full flex flex-col font-sans bg-[#08090d] text-gray-100 selection:bg-purple-500/30 selection:text-white">
+      <body className="min-h-full flex flex-col font-sans bg-[#0d0e11] text-[#ededed]">
         {children}
       </body>
     </html>
