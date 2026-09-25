@@ -92,7 +92,7 @@ export default function Home() {
     {
       name: 'LinkedIn',
       icon: LinkedinIcon,
-      url: 'https://www.linkedin.com/in/eswar-koduru',
+      url: 'https://www.linkedin.com/in/koduru-eswar-reddy-7a02a7348/',
       badge: 'LinkedIn Profile',
       color: 'hover:text-blue-400 hover:border-blue-500/50',
     },
@@ -106,21 +106,21 @@ export default function Home() {
     {
       name: 'LeetCode',
       icon: LeetcodeIcon,
-      url: 'https://leetcode.com/u/Eswar15-b34',
+      url: 'https://leetcode.com/u/kodurueswar/',
       badge: 'LeetCode Profile',
       color: 'hover:text-amber-400 hover:border-amber-500/50',
     },
     {
       name: 'Codeforces',
       icon: CodeforcesIcon,
-      url: 'https://codeforces.com/profile/Eswar15-b34',
+      url: 'https://codeforces.com/profile/keswar',
       badge: 'Codeforces Profile',
       color: 'hover:text-red-400 hover:border-red-500/50',
     },
     {
       name: 'GeeksforGeeks',
       icon: GeeksforGeeksIcon,
-      url: 'https://www.geeksforgeeks.org/user/eswarreddykoduru/',
+      url: 'https://www.geeksforgeeks.org/profile/eswarkoduru',
       badge: 'GeeksforGeeks Profile',
       color: 'hover:text-emerald-400 hover:border-emerald-500/50',
     },
@@ -726,7 +726,7 @@ export default function Home() {
                   <GithubIcon className="w-5 h-5" />
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/eswar-koduru"
+                  href="https://www.linkedin.com/in/koduru-eswar-reddy-7a02a7348/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="h-10 w-10 rounded-xl bg-white/5 border border-white/10 flex items-center justify-center text-gray-300 hover:text-white hover:bg-blue-600 transition"
@@ -735,7 +735,7 @@ export default function Home() {
                   <LinkedinIcon className="w-5 h-5" />
                 </a>
                 <a
-                  href="https://leetcode.com/u/Eswar15-b34"
+                  href="https://leetcode.com/u/kodurueswar/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="h-10 w-10 rounded-xl bg-white/5 border border-white/10 flex items-center justify-center text-gray-300 hover:text-white hover:bg-amber-600 transition"
@@ -744,7 +744,7 @@ export default function Home() {
                   <LeetcodeIcon className="w-5 h-5" />
                 </a>
                 <a
-                  href="https://codeforces.com/profile/Eswar15-b34"
+                  href="https://codeforces.com/profile/keswar"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="h-10 w-10 rounded-xl bg-white/5 border border-white/10 flex items-center justify-center text-gray-300 hover:text-white hover:bg-red-600 transition"
@@ -753,7 +753,7 @@ export default function Home() {
                   <CodeforcesIcon className="w-5 h-5" />
                 </a>
                 <a
-                  href="https://www.geeksforgeeks.org/user/eswarreddykoduru/"
+                  href="https://www.geeksforgeeks.org/profile/eswarkoduru"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="h-10 w-10 rounded-xl bg-white/5 border border-white/10 flex items-center justify-center text-gray-300 hover:text-white hover:bg-emerald-600 transition"

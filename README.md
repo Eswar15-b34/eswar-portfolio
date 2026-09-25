@@ -50,9 +50,14 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ---
 
-## 📬 Contact
+## 📬 Contact & Profiles
 
 - **Email**: [eshwarreddykoduru@gmail.com](mailto:eshwarreddykoduru@gmail.com)
 - **Phone**: +91 9573786379
+- **LinkedIn**: [linkedin.com/in/koduru-eswar-reddy-7a02a7348/](https://www.linkedin.com/in/koduru-eswar-reddy-7a02a7348/)
 - **GitHub**: [github.com/Eswar15-b34](https://github.com/Eswar15-b34)
-- **LinkedIn**: [linkedin.com/in/eswar-koduru](https://www.linkedin.com/in/eswar-koduru)
+- **LeetCode**: [leetcode.com/u/kodurueswar/](https://leetcode.com/u/kodurueswar/)
+- **Codeforces**: [codeforces.com/profile/keswar](https://codeforces.com/profile/keswar)
+- **GeeksforGeeks**: [geeksforgeeks.org/profile/eswarkoduru](https://www.geeksforgeeks.org/profile/eswarkoduru)
+- **HackerRank**: [hackerrank.com/profile/eswarreddykoduru](https://www.hackerrank.com/profile/eswarreddykoduru)
+
