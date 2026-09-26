@@ -335,7 +335,6 @@ export default function Home() {
             <a className="transition hover:text-purple-400" href="#skills">Skills</a>
             <a className="transition hover:text-purple-400" href="#projects">Projects</a>
             <a className="transition hover:text-purple-400" href="#certifications">Certifications</a>
-            <a className="transition hover:text-purple-400" href="#contact">Contact</a>
           </div>
 
           <div className="flex items-center gap-3">
